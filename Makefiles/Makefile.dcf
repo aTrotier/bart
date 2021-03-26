@@ -1,0 +1,2 @@
+MODULES_nuecalib = -lnoncart -liter -llinops
+XTARGETS += dcf
